@@ -1,0 +1,10 @@
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\bin\Debug\Sistema_votacion.exe.config
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\bin\Debug\Sistema_votacion.exe
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\bin\Debug\Sistema_votacion.pdb
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\obj\Debug\votacion.csproj.AssemblyReference.cache
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\obj\Debug\Sistema_votacion.Form1.resources
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\obj\Debug\Sistema_votacion.Properties.Resources.resources
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\obj\Debug\votacion.csproj.GenerateResource.cache
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\obj\Debug\votacion.csproj.CoreCompileInputs.cache
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\obj\Debug\Sistema_votacion.exe
+C:\Users\madeline\Documents\Noveno_Semestre\ingenieria de Sotware\FASE2\Sistema_votacion\Sistema_votacion\obj\Debug\Sistema_votacion.pdb
